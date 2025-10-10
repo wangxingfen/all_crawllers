@@ -51,7 +51,7 @@ def bilibili_bot():
     #options.add_argument('--headless')
     options.add_argument(f'user-agent={UserAgent.random}')
     driver=webdriver.Firefox(options=options)
-    url=f"https://message.bilibili.com/#/whisper/"
+    url=f"https://space.bilibili.com/3494362969278731/relation/follow?spm_id_from=333.1007.0.0"
     driver.get(url=url)
     with open("all_cookies.json", "r", encoding="utf-8") as f:
         web_cookies = json.load(f)
@@ -60,32 +60,26 @@ def bilibili_bot():
     driver.get(url=url)
     time.sleep(1)
     i=0
-    scroll_container=driver.find_element(By.CSS_SELECTOR, '._InfiniteScroll_wmrzv_1')
-    # 使用JavaScript滚动具体元素
-    for i in range(1,100):
-        driver.execute_script("arguments[0].scrollTop += 200;", scroll_container)
-        time.sleep(0.5)
-    
+    scroll_container=driver.find_element(By.CSS_SELECTOR, 'html')
+    driver.execute_script("arguments[0].scrollTop += 200;", scroll_container)
+    followers=driver.find_elements(By.XPATH, f'//*[@id="app"]/main/div[1]/div[2]/section/div[2]/div/div/div/div[2]/div[1]/div/div/div')
+    for follower in followers:
+        if follower.text=="已关注":
+            follower.click()
+            time.sleep(0.5)
+    driver.find_element(By.XPATH, '//*[@id="app"]/main/div[1]/div[2]/div[2]/div[1]/button[11]').click()
+    time.sleep(1)
     while True:
-        for i in range(1,1000):
-
-            if_true=check_element_exists(driver=driver,i=i)
-            if if_true:
-                driver.find_element(By.CSS_SELECTOR, f'div._SessionItem_dnmx0_1:nth-child({i})').click()
-                time.sleep(0.5)    
-                message=driver.find_element(By.CSS_SELECTOR, '._ChatContent_1lacc_58').text
-                message_list=message.split('\n')
-                piece="你好！"
-                try:
-                    piece=responser(message_list[-1])
-                except Exception as e:
-                    print(e)
-                driver.find_element(By.CSS_SELECTOR, '.brt-editor').send_keys(piece)
-                driver.find_element(By.CSS_SELECTOR, '._MessageSendBox__SendBtn_1izxa_69').click()
-            else:
-                driver.find_element(By.CSS_SELECTOR, f'div._SessionItem_dnmx0_1:nth-child({i})').click()
-                time.sleep(0.1)
-            
+        scroll_container=driver.find_element(By.CSS_SELECTOR, 'html')
+        driver.execute_script("arguments[0].scrollTop += 200;", scroll_container)
+        followers=driver.find_elements(By.XPATH, f'//*[@id="app"]/main/div[1]/div[2]/section/div[2]/div/div/div/div[2]/div[1]/div/div/div')
+        for follower in followers:
+            if follower.text=="已关注":
+                follower.click()
+                time.sleep(0.5)
+        driver.find_element(By.XPATH, '//*[@id="app"]/main/div[1]/div[2]/div[2]/div[1]/button[11]').click()
+        time.sleep(random.randint(1,2))
+    
     
 if __name__ == '__main__':
     #print(responser("你好"))
