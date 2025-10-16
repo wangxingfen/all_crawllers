@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.common.by import By
-from fake_useragent import UserAgent
+from selenium.webdriver.common.by import Byt
 import time
 import random
 import json
@@ -10,7 +9,6 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
-from fake_useragent import UserAgent
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
@@ -21,7 +19,6 @@ def bilibili_like():
     options.add_argument('--disable-blink-features=AutomationControlled')
     options.add_argument('--disable-infobars')
     options.add_argument('--headless')
-    options.add_argument(f'user-agent={UserAgent.random}')
     driver=webdriver.Firefox(options=options)
     url=f"https://t.bilibili.com/?spm_id_from=333.1007.0.0"
     driver.get(url=url)
@@ -107,7 +104,6 @@ def bilibili_like_reccommend():
     options.add_argument('--disable-blink-features=AutomationControlled')
     options.add_argument('--disable-infobars')
     #options.add_argument('--headless')
-    options.add_argument(f'user-agent={UserAgent.random}')
     driver=webdriver.Firefox(options=options)
     url=f"https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F&order=pubdate"
     driver.get(url=url)
