@@ -1,0 +1,1249 @@
+{
+  "bilibili": [
+    {
+      "name": "buvid3",
+      "value": "F796BFD6-2E5F-6B30-7EB4-151AA7422CD963434infoc",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1794145864,
+      "sameSite": "None"
+    },
+    {
+      "name": "b_nut",
+      "value": "1759585863",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791121863,
+      "sameSite": "None"
+    },
+    {
+      "name": "b_lsid",
+      "value": "DC3102939_199AF7D8AE8",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_uuid",
+      "value": "59869A92-858C-28410-CB5A-594B62AAE951064428infoc",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791121864,
+      "sameSite": "None"
+    },
+    {
+      "name": "buvid_fp",
+      "value": "d213e48cbd43392c7f8ae03b67863db7",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1794145865,
+      "sameSite": "None"
+    },
+    {
+      "name": "bili_ticket",
+      "value": "eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTk4NDUwNjYsImlhdCI6MTc1OTU4NTgwNiwicGx0IjotMX0.7iMakT0JbycunS315B56GznJuwg5scaUVyG3JjFkP5Q",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1759845065,
+      "sameSite": "None"
+    },
+    {
+      "name": "bili_ticket_expires",
+      "value": "1759845006",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1759845065,
+      "sameSite": "None"
+    },
+    {
+      "name": "bmg_af_switch",
+      "value": "1",
+      "path": "/",
+      "domain": "search.bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "bmg_src_def_domain",
+      "value": "i2.hdslb.com",
+      "path": "/",
+      "domain": "search.bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "SESSDATA",
+      "value": "9d087f6f%2C1775137874%2C1654c%2Aa2",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1759672274,
+      "sameSite": "None"
+    },
+    {
+      "name": "bili_jct",
+      "value": "4d36a81cea1cb134ba9006657f86d9f7",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1759672274,
+      "sameSite": "None"
+    },
+    {
+      "name": "DedeUserID",
+      "value": "3494362969278731",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1759672274,
+      "sameSite": "None"
+    },
+    {
+      "name": "DedeUserID__ckMd5",
+      "value": "bac5ada60cae915e",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1759672274,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid",
+      "value": "olydjvd8",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1759672274,
+      "sameSite": "None"
+    },
+    {
+      "name": "buvid4",
+      "value": "662C2974-CBAF-D050-E6B9-B2DB253B8D5066448-025100421-XS1gWoWJcDTrQrf7K1wckzQHe9t8A6HAWTZamL7tr7qUB0oDhp3/kXgb/rMoXEzP",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1794145879,
+      "sameSite": "None"
+    }
+  ],
+  "baidu": [
+    {
+      "name": "BIDUPSID",
+      "value": "C7A24E12608978F59ECAD88044C94D7A",
+      "path": "/",
+      "domain": ".baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1794149237,
+      "sameSite": "None"
+    },
+    {
+      "name": "PSTM",
+      "value": "1759589237",
+      "path": "/",
+      "domain": ".baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1794149237,
+      "sameSite": "None"
+    },
+    {
+      "name": "BD_HOME",
+      "value": "1",
+      "path": "/",
+      "domain": "www.baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "BAIDUID",
+      "value": "C7A24E12608978F59ECAD88044C94D7A:FG=1",
+      "path": "/",
+      "domain": ".baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791125237,
+      "sameSite": "None"
+    },
+    {
+      "name": "BAIDUID_BFESS",
+      "value": "C7A24E12608978F59ECAD88044C94D7A:FG=1",
+      "path": "/",
+      "domain": ".baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791125237,
+      "sameSite": "None"
+    },
+    {
+      "name": "BA_HECTOR",
+      "value": "292g0ha105852l248404a4800g2l0j1ke2crm24",
+      "path": "/",
+      "domain": ".baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1759675638,
+      "sameSite": "None"
+    },
+    {
+      "name": "ZFY",
+      "value": "OKM85bMREOQkghtBI5bDFbZsbhA:A0nziLBUIRgRGaFE:C",
+      "path": "/",
+      "domain": ".baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791125239,
+      "sameSite": "None"
+    },
+    {
+      "name": "ppfuid",
+      "value": "FOCoIC3q5fKa8fgJnwzbE67EJ49BGJeplOzf+4l4EOvDuu2RXBRv6R3A1AZMa49I27C0gDDLrJyxcIIeAeEhD3iAJZpK/vamtTTGqdKc877L4AeOJmx6PdZ/quTEVA5ALY/K594STGocU9WpVBYSwmA0wErXaPPjEUAhAtJPa5HpCrn7JWf8mdGiwnSC8/ptOOG2YVQAD5FsfgA30lmxLNeK0pANfGSzKECH1TK7NX2BJCmseIVKIDkHC6V7QiHkDPXYNLl/lcxE/5pk0XuA7bLVhi8nTC7D4oNeeTJaANymOxIZj5RQ+RLxHJl103SQ+BtX+zT1o3vsP2z1vudCMc5FjnYxYstXg/9EfB3EVmI+8zAmho9UyCVw0CwXswtNULXY3st+/5MpeCQPRaeM48nmXcDfihcK+Aoj3HcOTycjq1z170EyPPj5/Em4yJTI6YJrMGknHOgzVm9+IxY9F97XURNLrh7qomGuQQpRUtldEwqKyouAqG4EeNfcVml/CCiyYmjTSzkoVnWXZUDtg111cXIp8yh6lL1k2MeOY7IlFZWO/AB0BqJegiS0EPEO/ezEoZWs73UsD14CT+c9LjCafS/t8f2NhhoVubIreeZMKn53yMtHO8urhqsDgupsCddwFGoqyw1oXuUsB/n/ZMfuK4zWnUGEV2OtnLOMGur7txTYZ8dLxAh+/0Q+4zgSh2GX02XHZzLsRaNiP2MRrFbBUy6gn4tGDAhll9JHucbBQXb+fw6M4LHN3tasb2tQbAQImVakbpg6vs1d3IqznWpYI33Q5jqb6Ok7EFDjAM4caIHIR+kB24f3zpE5abWyhTZb/JmatAWsKoAz60xXesq9CWDWEmdlrnIna7iGfA3iLys1NSUaBCZosQTTOcpLHHS2iV1Dbt6alZkbXz4/sER3pU7nQKZo/4kP9XycIr9u7g1DYgbDSbWhoM9Q+nDgsttP8T+a5WvpN14CUEIMCaCg2xVDj7EBO9v2tJBFgtiobjyizPf+nWdNIrFj9TO9WFSvhnK4mF3UhrHUy7mtmeK7IjKUnIjstBrR9AQyGh0TgTVCBrrNd75NwQ/c3XY84/WSbHlJc8BFfm7HInMCI0gsELzOHt8Z81c5ZXfs72DdKu2MPscebveT0qM/pzvPLPU6o6Utgrhl3qCtyVdGbEyo2qWH7IfBOMcRDF0Hk3WqYVTYSRv+9Oz9hnAmJXEe",
+      "path": "/",
+      "domain": ".baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "XFI",
+      "value": "088308c0-a131-11f0-8982-1727585da7c1",
+      "path": "/",
+      "domain": "www.baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "XFCS",
+      "value": "9B60D0A033458BA8CB41F9E439EEB294893CBB91BB3EB64E1549736D37A17553",
+      "path": "/",
+      "domain": "www.baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "XFT",
+      "value": "Cb4f8rskp4uKehC9yrEH0m+6qyUNZK3lL8WKHzHtfT4=",
+      "path": "/",
+      "domain": "www.baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "BDUSS",
+      "value": "l2QU9meU5OdlhWR1VIcDQzUHJQSTZySG9xeUNYOXNmMnNJU1Nhb2JRRjl3QWhwRVFBQUFBJCQAAAAAAQAAAAEAAACEqXqOzfXQ0rfvOTkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH0z4Wh9M-FoMj",
+      "path": "/",
+      "domain": ".baidu.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1794149245,
+      "sameSite": "None"
+    },
+    {
+      "name": "H_PS_PSSID",
+      "value": "63141_64008_64871_64912_64983_65128_65186_65227_65242_65254_65271_65311_65368_65416_65457_65452_65502_65475_65508_65536_65541",
+      "path": "/",
+      "domain": ".baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791125246,
+      "sameSite": "None"
+    },
+    {
+      "name": "BD_UPN",
+      "value": "13314752",
+      "path": "/",
+      "domain": "www.baidu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1760453246,
+      "sameSite": "None"
+    }
+  ],
+  "douyin_hot": [
+    {
+      "name": "x_dpss_uuid",
+      "value": "0168af56-01cc-476b-bf1c-af13ebaa296e",
+      "path": "/",
+      "domain": "douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x_dpss_uuid.sig",
+      "value": "TCD5zUxovjrqx7X38gDlQ6t50FaC7gXs7t-p3Y570_A",
+      "path": "/",
+      "domain": "douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_csrf_token",
+      "value": "73f163dc340cf084ad9e8b3d23a76293",
+      "path": "/",
+      "domain": ".douyin.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1764776069,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_csrf_token_default",
+      "value": "73f163dc340cf084ad9e8b3d23a76293",
+      "path": "/",
+      "domain": ".douyin.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1764776069,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_csrf_token_wap_state",
+      "value": "73f950c83gAToVCgoVPZIDRkNGU4ZmExZWQwY2E1NWJkMGM4MjY1MDk1MDlmZmJmoU7ZT2h0dHBzOi8vZG91aG90LmRvdXlpbi5jb20vc3F1YXJlL2hvdHNwb3Q_YWN0aXZlX3RhYj1ob3RzcG90X3ZpZGVvJmRhdGVfd2luZG93PTGhVgGhSQChRAChQdEY7aFNAKFIsWRvdWhvdC5kb3V5aW4uY29toVIColBM0QmEpkFDVElPTqChTKChVNkgMzQ4MGIxZGYyYjJlMTgyNTUyNjA3NDc4OGQ0MDBiMGGhVwChRgCiU0EAoVXCok1Mwg%253D%253D",
+      "path": "/",
+      "domain": ".douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1759595669,
+      "sameSite": "None"
+    },
+    {
+      "name": "kura_cloud_uid",
+      "value": "9947527bc9c2c5b47c06805fc98712c5",
+      "path": "/",
+      "domain": "douhot.douyin.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791128069,
+      "sameSite": "None"
+    },
+    {
+      "name": "bd_ticket_guard_client_data",
+      "value": "eyJiZC10aWNrZXQtZ3VhcmQtdmVyc2lvbiI6MiwiYmQtdGlja2V0LWd1YXJkLWl0ZXJhdGlvbi12ZXJzaW9uIjoxLCJiZC10aWNrZXQtZ3VhcmQtcmVlLXB1YmxpYy1rZXkiOiJCRkVIV3lOVlo0cmh4eDRCa2RLclQyMWhLbitKdWtMTExUdy9tOHJ5SUZxNnBtbXhWd2xtczdJMGVybTdWMzJCcU9MQXBncDUxcnQ4OEd3UERCQ1UyTEE9IiwiYmQtdGlja2V0LWd1YXJkLXdlYi12ZXJzaW9uIjoxfQ%3D%3D",
+      "path": "/",
+      "domain": ".douyin.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1764776071,
+      "sameSite": "None"
+    },
+    {
+      "name": "bd_ticket_guard_client_web_domain",
+      "value": "2",
+      "path": "/",
+      "domain": ".douyin.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1764776071,
+      "sameSite": "None"
+    },
+    {
+      "name": "ttwid",
+      "value": "1%7CU1_uEgup4Pn3Y9znhmjflYyOW5h_UVOKSKgjk5J6Axk%7C1759592071%7Cd62856c3ef419982810d501c4c23e6b12037f302fdf116f9c7c5172a7e6b036a",
+      "path": "/",
+      "domain": ".douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1791128071,
+      "sameSite": "None"
+    },
+    {
+      "name": "odin_tt",
+      "value": "576a939c8f4b208972f19a9ecfa61497c27a86f13ff27643de765ae198c428b56866fd37a6fb1f35d48dbf58572a95065d9cdf814240ca3bf16d1e401eb0e4ff",
+      "path": "/",
+      "domain": ".douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1791128077,
+      "sameSite": "None"
+    },
+    {
+      "name": "n_mh_douhot",
+      "value": "9-mIeuD4wZnlYrrOvfzG3MuT6aQmCUtmr8FxV8Kl8xY",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1769960077,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_guard_douhot",
+      "value": "8d90bd154706159a09532082df78f3c8%7C1759592077%7C5184000%7CWed%2C+03-Dec-2025+15%3A34%3A37+GMT",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1790696077,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid_tt_douhot",
+      "value": "b540c8f6a86ef937e2be6541439e7ad4",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1764776077,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid_tt_ss_douhot",
+      "value": "b540c8f6a86ef937e2be6541439e7ad4",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1764776077,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_tt_douhot",
+      "value": "8d90bd154706159a09532082df78f3c8",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1764776077,
+      "sameSite": "None"
+    },
+    {
+      "name": "sessionid_douhot",
+      "value": "8d90bd154706159a09532082df78f3c8",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1764776077,
+      "sameSite": "None"
+    },
+    {
+      "name": "sessionid_ss_douhot",
+      "value": "8d90bd154706159a09532082df78f3c8",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1764776077,
+      "sameSite": "None"
+    },
+    {
+      "name": "session_tlb_tag_douhot",
+      "value": "sttt%7C4%7CjZC9FUcGFZoJUyCC33jzyP_________6GYqLQpwyu7h5RfhbUBbvfg7GcGp3m3ieatXoSuMRnp4%3D",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1764776077,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_staff_user_douhot",
+      "value": "false",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1764776077,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_ucp_v1_douhot",
+      "value": "1.0.0-KGIzOWJkN2UwM2U3MWJhNDVlNmY0NWJkNDkxMTI1ZWExZjcxNzExMGYKHgj6tMCC4MzSARCN_YTHBhjtMSAMMPWKgKsGOAhAJhoCbGYiIDhkOTBiZDE1NDcwNjE1OWEwOTUzMjA4MmRmNzhmM2M4",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1764776077,
+      "sameSite": "None"
+    },
+    {
+      "name": "ssid_ucp_v1_douhot",
+      "value": "1.0.0-KGIzOWJkN2UwM2U3MWJhNDVlNmY0NWJkNDkxMTI1ZWExZjcxNzExMGYKHgj6tMCC4MzSARCN_YTHBhjtMSAMMPWKgKsGOAhAJhoCbGYiIDhkOTBiZDE1NDcwNjE1OWEwOTUzMjA4MmRmNzhmM2M4",
+      "path": "/",
+      "domain": ".douhot.douyin.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1764776077,
+      "sameSite": "None"
+    },
+    {
+      "name": "csrf_session_id",
+      "value": "956d0ad2b0e628247f3520e8290fb3c1",
+      "path": "/",
+      "domain": "douhot.douyin.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ttcid",
+      "value": "b885bbe069644a9cb87011080ddb302272",
+      "path": "/",
+      "domain": "douhot.douyin.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791128086,
+      "sameSite": "None"
+    },
+    {
+      "name": "locale",
+      "value": "en-us",
+      "path": "/",
+      "domain": "douhot.douyin.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791149687,
+      "sameSite": "None"
+    },
+    {
+      "name": "tt_scid",
+      "value": "Tvo7aqMUmGrb2y2bFbY6h3Bl.nJOg2ureELKewHzgyHnkAFFdwGWp1uc-zv-jCj.39fe",
+      "path": "/",
+      "domain": "douhot.douyin.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791128087,
+      "sameSite": "None"
+    }
+  ],
+  "zhiwang": [
+    {
+      "name": "SID",
+      "value": "zhuye091004",
+      "path": "/",
+      "domain": "data.oversea.cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "cangjieStatus_NZKPT2",
+      "value": "false",
+      "path": "/",
+      "domain": "data.oversea.cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1759684456,
+      "sameSite": "None"
+    },
+    {
+      "name": "_c_WBKFRo",
+      "value": "7myujCW7NCmt3rrKSBNLu4E26cb9oAWAGHUUqywo",
+      "path": "/",
+      "domain": ".cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791177259,
+      "sameSite": "None"
+    },
+    {
+      "name": "_nb_ioWEgULi",
+      "value": "",
+      "path": "/",
+      "domain": ".cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "Ecp_ClientId",
+      "value": "4c6872c423db5f374dcbcc1fa8dc7bd30Uyl2FO76f",
+      "path": "/",
+      "domain": ".cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1794201259,
+      "sameSite": "None"
+    },
+    {
+      "name": "Ecp_IpLoginFail",
+      "value": "25100561.159.1.109",
+      "path": "/",
+      "domain": ".cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1759727659,
+      "sameSite": "None"
+    },
+    {
+      "name": "Ecp_notFirstLogin",
+      "value": "YcLcRJ",
+      "path": "/",
+      "domain": ".cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1762233275,
+      "sameSite": "None"
+    },
+    {
+      "name": "Ecp_LoginStuts",
+      "value": "{\"IsAutoLogin\":true,\"UserName\":\"cnki_18aee290427\",\"ShowName\":\"cnki_18aee290427\",\"UserType\":\"jf\",\"BUserName\":\"hbdx24AI\",\"BShowName\":\"hbdx24AI\",\"BUserType\":\"jf\",\"r\":\"YcLcRJ\",\"Members\":[]}",
+      "path": "/",
+      "domain": ".cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1762233275,
+      "sameSite": "None"
+    },
+    {
+      "name": "c_m_LinID",
+      "value": "LinID=WEEvREcwSlJHSldTTEYyUFcra281ZUZwc1cvOHl3WXZUMWdsV0p6TVpjRT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&ot=11%2F04%2F2025%2013%3A14%3A35",
+      "path": "/",
+      "domain": ".cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1762233275,
+      "sameSite": "None"
+    },
+    {
+      "name": "LID",
+      "value": "WEEvREcwSlJHSldTTEYyUFcra281ZUZwc1cvOHl3WXZUMWdsV0p6TVpjRT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!",
+      "path": "/",
+      "domain": ".cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1762233275,
+      "sameSite": "None"
+    },
+    {
+      "name": "c_m_expire",
+      "value": "2025-11-04%2013%3A14%3A35",
+      "path": "/",
+      "domain": ".cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1762233275,
+      "sameSite": "None"
+    },
+    {
+      "name": "Ecp_session",
+      "value": "1",
+      "path": "/",
+      "domain": ".cnki.net",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    }
+  ],
+  "bilibili_msg": [
+    {
+      "name": "buvid3",
+      "value": "45509357-9E0A-4F11-AB58-12249D6AA73E83659infoc",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1795176282,
+      "sameSite": "None"
+    },
+    {
+      "name": "b_nut",
+      "value": "1760616283",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1792152282,
+      "sameSite": "None"
+    },
+    {
+      "name": "buvid4",
+      "value": "1967341F-A7EB-73C5-855A-C37D598A3A9285336-025101620-XS1gWoWJcDTrQrf7K1wckz7HiMkru9XPdeQKxfP9hMTHNJVP%2FkmKLP2hPMi7lful",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1795176284,
+      "sameSite": "None"
+    },
+    {
+      "name": "buvid_fp",
+      "value": "a968d20826d13ebfb1e6bb0b08b4bcc4",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1792152284,
+      "sameSite": "None"
+    },
+    {
+      "name": "SESSDATA",
+      "value": "73fed499%2C1776168293%2C421a2%2Aa1CjBZdM_SWBPnBAF9KLvNiv6XNS7zAi3Gs6vU7bKJDYBcTAd2Cf784okk_B9NSJovnpYSVlRydEVnclN3MGdyR0M2QS0wVUpaUXdQbXlJalB0SzRZUEhNQjllMGJ6NXNUWjg0X1ZlTWc0T1A1bWc5blBhQ3RreTkwTlpXMGdvRnhBbU1GckhZS2RBIIEC",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1776168292,
+      "sameSite": "None"
+    },
+    {
+      "name": "bili_jct",
+      "value": "143ce6104b133f8a9e8c4182b8c999e4",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1776168292,
+      "sameSite": "None"
+    },
+    {
+      "name": "DedeUserID",
+      "value": "3494362969278731",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1776168292,
+      "sameSite": "None"
+    },
+    {
+      "name": "DedeUserID__ckMd5",
+      "value": "bac5ada60cae915e",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1776168292,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid",
+      "value": "gracvtga",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1776168292,
+      "sameSite": "None"
+    },
+    {
+      "name": "b_lsid",
+      "value": "B95938C1_199ECE8A29E",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_uuid",
+      "value": "4736106DF-AA4A-D8A3-B781-D47910F91BCD193024infoc",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1792152293,
+      "sameSite": "None"
+    },
+    {
+      "name": "theme-tip-show",
+      "value": "SHOWED",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1792152294,
+      "sameSite": "None"
+    },
+    {
+      "name": "bili_ticket",
+      "value": "eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjA4NzU0OTYsImlhdCI6MTc2MDYxNjIzNiwicGx0IjotMX0.qjRARdZXtkpYmAhgmH8UZwjo5f1ChcGogI3fyP5mruY",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1760875494,
+      "sameSite": "None"
+    },
+    {
+      "name": "bili_ticket_expires",
+      "value": "1760875436",
+      "path": "/",
+      "domain": ".bilibili.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1760875494,
+      "sameSite": "None"
+    }
+  ],
+  "xiaohongshu": [
+    {
+      "name": "acw_tc",
+      "value": "0a00ddd717602328301276063e8c118910775bcdd0cdd9f28b8b789082b161",
+      "path": "/",
+      "domain": "www.xiaohongshu.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1760234630,
+      "sameSite": "None"
+    },
+    {
+      "name": "abRequestId",
+      "value": "027108b1-e567-5701-bb20-1732b53d3e63",
+      "path": "/",
+      "domain": ".xiaohongshu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791768830,
+      "sameSite": "None"
+    },
+    {
+      "name": "webBuild",
+      "value": "4.82.0",
+      "path": "/",
+      "domain": ".xiaohongshu.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "xsecappid",
+      "value": "xhs-pc-web",
+      "path": "/",
+      "domain": ".xiaohongshu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791768831,
+      "sameSite": "None"
+    },
+    {
+      "name": "loadts",
+      "value": "1760232831651",
+      "path": "/",
+      "domain": ".xiaohongshu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791768831,
+      "sameSite": "None"
+    },
+    {
+      "name": "a1",
+      "value": "199d60d7aa3s92z5jtn7qnxdp9x1gne6iwdkddihg50000413218",
+      "path": "/",
+      "domain": ".xiaohongshu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791768831,
+      "sameSite": "None"
+    },
+    {
+      "name": "webId",
+      "value": "31cfcb45d819e2916a745978c02ee6fa",
+      "path": "/",
+      "domain": ".xiaohongshu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791768831,
+      "sameSite": "None"
+    },
+    {
+      "name": "web_session",
+      "value": "030037afd851f4a0be17cc43932f4a2cbb58f3",
+      "path": "/",
+      "domain": ".xiaohongshu.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1791768832,
+      "sameSite": "None"
+    },
+    {
+      "name": "websectiga",
+      "value": "984412fef754c018e472127b8effd174be8a5d51061g991aadd200c69a2801d6",
+      "path": "/",
+      "domain": ".xiaohongshu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1760492032,
+      "sameSite": "None"
+    },
+    {
+      "name": "sec_poison_id",
+      "value": "95799b67-a390-4091-ab74-0bffac40097e",
+      "path": "/",
+      "domain": ".xiaohongshu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1760233437,
+      "sameSite": "None"
+    },
+    {
+      "name": "gid",
+      "value": "yjjfK8fjJK32yjjfK8fW0Ef30qMjJu2V9IWAfxkICfUjCT28ykIdKf8884yqJyY8Kqi0iJ8K",
+      "path": "/",
+      "domain": ".xiaohongshu.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1794792838,
+      "sameSite": "None"
+    }
+  ],
+  "toutiao": [
+    {
+      "name": "gfkadpd",
+      "value": "24,6457",
+      "path": "/",
+      "domain": "www.toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1760540434,
+      "sameSite": "None"
+    },
+    {
+      "name": "ttcid",
+      "value": "9569266589404d509aa548c60e7ead0674",
+      "path": "/",
+      "domain": "www.toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791817234,
+      "sameSite": "None"
+    },
+    {
+      "name": "local_city_cache",
+      "value": "%E4%BF%9D%E5%AE%9A",
+      "path": "/",
+      "domain": "www.toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1762873235,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-web-secsdk-uid",
+      "value": "8908006d-c6bd-42c3-9bc3-1f7ac3b2e2cb",
+      "path": "/",
+      "domain": "www.toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "s_v_web_id",
+      "value": "verify_mgntzyhq_36v0OUWP_qb65_4W4b_8I5b_TETCcWv0h8lq",
+      "path": "/",
+      "domain": "www.toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1765465236,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_csrf_token",
+      "value": "40ee0d9837bf284c9d4964854530ca5d",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1765465238,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_csrf_token_default",
+      "value": "40ee0d9837bf284c9d4964854530ca5d",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1765465238,
+      "sameSite": "None"
+    },
+    {
+      "name": "n_mh",
+      "value": "PZ-HC-xVPSHYnQyPGEUwTFQVBu3TNgg-gGDrb_-zSQc",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1770649247,
+      "sameSite": "None"
+    },
+    {
+      "name": "sso_uid_tt",
+      "value": "04e80f79c9c73e48486f435cc09c3e38",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465247,
+      "sameSite": "None"
+    },
+    {
+      "name": "sso_uid_tt_ss",
+      "value": "04e80f79c9c73e48486f435cc09c3e38",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465247,
+      "sameSite": "None"
+    },
+    {
+      "name": "toutiao_sso_user",
+      "value": "34d96634c70ef24b01dba3f45aded390",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465247,
+      "sameSite": "None"
+    },
+    {
+      "name": "toutiao_sso_user_ss",
+      "value": "34d96634c70ef24b01dba3f45aded390",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465247,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_ucp_sso_v1",
+      "value": "1.0.0-KDVhMGZlNGUzYjk0YWE3NjZkZDE1ZjQ5YTYwZmVhZTgwN2ExNGY1NWQKHgjwtZD0uIzHAhCfha_HBhgYIAwwzNLjmQY4BkD0BxoCaGwiIDM0ZDk2NjM0YzcwZWYyNGIwMWRiYTNmNDVhZGVkMzkw",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465247,
+      "sameSite": "None"
+    },
+    {
+      "name": "ssid_ucp_sso_v1",
+      "value": "1.0.0-KDVhMGZlNGUzYjk0YWE3NjZkZDE1ZjQ5YTYwZmVhZTgwN2ExNGY1NWQKHgjwtZD0uIzHAhCfha_HBhgYIAwwzNLjmQY4BkD0BxoCaGwiIDM0ZDk2NjM0YzcwZWYyNGIwMWRiYTNmNDVhZGVkMzkw",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465247,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_auth_status",
+      "value": "a9187adcb7c5bee176dd0653c859ed03%2C",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1762873248,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_auth_status_ss",
+      "value": "a9187adcb7c5bee176dd0653c859ed03%2C",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1762873248,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_guard",
+      "value": "9a767529122f0e7318ba5ea3625c9aa8%7C1760281249%7C5184000%7CThu%2C+11-Dec-2025+15%3A00%3A49+GMT",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1791385248,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid_tt",
+      "value": "9bf70d4ebce3e3762ac0e8e2303b06a6",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465248,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid_tt_ss",
+      "value": "9bf70d4ebce3e3762ac0e8e2303b06a6",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465248,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_tt",
+      "value": "9a767529122f0e7318ba5ea3625c9aa8",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465248,
+      "sameSite": "None"
+    },
+    {
+      "name": "sessionid",
+      "value": "9a767529122f0e7318ba5ea3625c9aa8",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465248,
+      "sameSite": "None"
+    },
+    {
+      "name": "sessionid_ss",
+      "value": "9a767529122f0e7318ba5ea3625c9aa8",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465248,
+      "sameSite": "None"
+    },
+    {
+      "name": "session_tlb_tag",
+      "value": "sttt%7C1%7CmnZ1KRIvDnMYul6jYlyaqP_________YbjCQSiubtmTjAGFQ--A_XpHzPJVN-vYQZkUB7vZoQSI%3D",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465248,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_staff_user",
+      "value": "false",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465248,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_ucp_v1",
+      "value": "1.0.0-KGQ5YTg3NGU1NjNlNzU1NzAzMGE5YjIyNDUxOWY3OGM0ZTU2MTgyOWYKGAjwtZD0uIzHAhChha_HBhgYIAw4BkD0BxoCbHEiIDlhNzY3NTI5MTIyZjBlNzMxOGJhNWVhMzYyNWM5YWE4",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465248,
+      "sameSite": "None"
+    },
+    {
+      "name": "ssid_ucp_v1",
+      "value": "1.0.0-KGQ5YTg3NGU1NjNlNzU1NzAzMGE5YjIyNDUxOWY3OGM0ZTU2MTgyOWYKGAjwtZD0uIzHAhChha_HBhgYIAw4BkD0BxoCbHEiIDlhNzY3NTI5MTIyZjBlNzMxOGJhNWVhMzYyNWM5YWE4",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1765465248,
+      "sameSite": "None"
+    },
+    {
+      "name": "tt_webid",
+      "value": "7560350290857739818",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1768057248,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_QEHZPBE5HH",
+      "value": "GS2.1.s1760281235$o1$g1$t1760281249$j46$l0$h0",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1794841250,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.264269717.1760281235",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1794841250,
+      "sameSite": "None"
+    },
+    {
+      "name": "ttwid",
+      "value": "1%7Cv5cCc4uUCaYjh-ZK8yhOfH9BOWelDLQo0-cA1RnUTQw%7C1760281250%7Cf96a64e6c532576aab4431eb31dc6d13521883ebe9aa8ee37d82d689568734fd",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1791817250,
+      "sameSite": "None"
+    },
+    {
+      "name": "csrftoken",
+      "value": "67eb56e49d506e2990feb17418c38e21",
+      "path": "/",
+      "domain": ".www.toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791730850,
+      "sameSite": "None"
+    },
+    {
+      "name": "tt_anti_token",
+      "value": "CaxxMJPy-6dad0d402f3859eb84c6daba1afa7597adac186b6947d41c2856643779fb9e45",
+      "path": "/",
+      "domain": "www.toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791817249,
+      "sameSite": "None"
+    },
+    {
+      "name": "odin_tt",
+      "value": "3253d8bd7852c4a688e697d74ae49d2a34bc2609ecce049427ed568906307dbc61d54af78513a45dc4e435d8c27aea3d",
+      "path": "/",
+      "domain": ".toutiao.com",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": 1791817250,
+      "sameSite": "None"
+    },
+    {
+      "name": "tt_scid",
+      "value": "Zj52zQBa7yQ3SRN--GfeqLrC7vmLI9miZXXTC-VMzefDHOISZSxIQd.eK8C3q9pF924b",
+      "path": "/",
+      "domain": "www.toutiao.com",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": 1791817250,
+      "sameSite": "None"
+    }
+  ]
+}
